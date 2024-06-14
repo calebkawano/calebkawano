@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @calebkawano
 - 👀 I’m interested in learning Python and JavaScript, and app development
-- 🌱 I’m currently learning Python, Linear Algebra, Differential Equations, and Quantum Physics.
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on any internship or projects
 - 📫 How to reach me: email -->calebkawano@gmail.com
 - ⚡ Fun fact: I play four instruments, play collegiate soccer, and have performed stunts in a short film
